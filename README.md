@@ -3,12 +3,12 @@
 **🔭 I am currently ...**
   - Researcher at KAIST Cyber Security Research Center
 
-🌱 I am interested in ...
+**🌱 I am interested in ...**
   - Natural Language Processing
   - Data Mining
   - eXplainable AI
 
-📫 How to reach me ...
+**📫 How to reach me ...**
   - E-mail: psrpsj@gmail.com
   - Linkedin: https://www.linkedin.com/in/sangryu-park/
 
