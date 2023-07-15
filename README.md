@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I am currently ...
+** 🔭 I am currently ... **
   - Researcher at KAIST Cyber Security Research Center
 
 🌱 I am interested in ...
