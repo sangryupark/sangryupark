@@ -7,6 +7,7 @@
   - Natural Language Processing
   - Data Mining
   - eXplainable AI
+  - Generative AI
 
 **📫 How to reach me ...**
   - E-mail: psrpsj@gmail.com
