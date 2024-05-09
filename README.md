@@ -6,8 +6,7 @@
 **🌱 I am interested in ...**
   - Natural Language Processing
   - Data Mining
-  - eXplainable AI
-  - Generative AI
+  - Large Language Models
 
 **📫 How to reach me ...**
   - E-mail: psrpsj@gmail.com
